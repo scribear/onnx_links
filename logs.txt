@@ -1,0 +1,7 @@
+javascript vs python
+online vs offline
+embeddings + clustering
+paper with codes
+pytorch -> onnx -> tensorflow: unable; python version needs to be 3.6
+upgrade react to 18 for onnxruntime-react-native
+visualization
