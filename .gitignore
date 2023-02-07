@@ -11,6 +11,10 @@
 # production
 /build
 
+# models
+# src/diarization/clustering/*
+src/diarization/encoder/*
+
 # misc
 .DS_Store
 .env.local
